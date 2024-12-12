@@ -1,7 +1,7 @@
-# Vehicle Management System
+# Vehicle Dashboard Management Application
 
 ## Overview
-The **Vehicle Management System** is a web-based application developed using **Spring MVC**. It demonstrates the core concepts of Spring MVC by implementing a complete CRUD operation workflow. The project integrates both front-end and back-end components, with JSP pages serving as the front-end view layer. Designed for managing vehicle information efficiently, this system leverages HTTP methods for seamless interaction between the client and server.
+The **Vehicle Dashboard Management Application** is a web-based application developed using **Spring MVC**. It demonstrates the core concepts of Spring MVC by implementing a complete CRUD operation workflow. The project integrates both front-end and back-end components, with JSP pages serving as the front-end view layer. Designed to manage vehicle information efficiently, this system leverages HTTP methods for seamless interaction between the client and server.
 
 ## Features
 - **CRUD Operations**: Perform Create, Read, Update, and Delete operations on vehicle data.
